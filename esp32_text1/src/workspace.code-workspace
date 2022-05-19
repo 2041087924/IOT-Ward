@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "esp32_text1",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.wxss": "css",
+			"*.wxml": "html",
+			"algorithm": "cpp",
+			"cmath": "cpp",
+			"cstdint": "cpp",
+			"cinttypes": "cpp"
+		}
+	}
+}
